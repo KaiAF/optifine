@@ -1,0 +1,3 @@
+[submodule "optifine"]
+	path = optifine
+	url = https://github.com/sp614x/optifine.git
